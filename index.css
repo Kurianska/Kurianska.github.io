@@ -1,1 +1,61 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+body {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+aside img {
+  width: 20px;
+  height: 20px;
+}
+
+h1,
+h2,
+span,
+hr {
+  color: #bada55;
+}
+hr {
+  width: 30%;
+  text-align: start;
+}
+
+aside {
+  margin-top: 230px;
+}
+.phone,
+.email,
+.linkedin,
+.location {
+  display: flex;
+  justify-content: start;
+}
+
+#one {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+#two {
+  margin-top: 15px;
+  margin-right: 10px;
+  width: 25px;
+}
+
+#three {
+  margin-right: 10px;
+}
+
+#four {
+  margin-top: 15px;
+  margin-right: 10px;
+  height: 25px;
+}
 
